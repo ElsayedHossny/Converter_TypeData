@@ -8,8 +8,7 @@ this is Converter : use to convert data type .
 - When appear in Lcd (Convert To) Choose what type you need convert To ??
 - Some Advantages :
  
-1-)Click on Button 'C'->Clear_lCD.
-  
+1-)Click on Button 'C'->Clear_lCD. 
 2-)Click on Button 'D'->Back_ONE_Step.
   
 -When you Choose Convert From :
